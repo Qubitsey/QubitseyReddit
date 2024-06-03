@@ -1,0 +1,25 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1d5724o,Am I a lazy data engineer if I want to use libraries instead of writing functions myself?,62,50,kbickbic,2024-05-31 21:44:04,https://www.reddit.com/r/dataengineering/comments/1d5724o/am_i_a_lazy_data_engineer_if_i_want_to_use/,False,False,False,False
+1d5sd3d,"I parsed all Google, Uber, Yahoo, Netflix.. data engineering questions from various sources + wrote solutions.. here they are..",55,11,Dubinko,2024-06-01 17:39:53,https://www.reddit.com/r/dataengineering/comments/1d5sd3d/i_parsed_all_google_uber_yahoo_netflix_data/,False,False,False,False
+1d5cte5,Industry pay for a data architect,43,31,Kooky_Internet_9943,2024-06-01 02:33:01,https://www.reddit.com/r/dataengineering/comments/1d5cte5/industry_pay_for_a_data_architect/,False,False,False,False
+1d5bdkl,Data Vault vs Kimball,28,12,Lower_Sun_7354,2024-06-01 01:13:37,https://www.reddit.com/r/dataengineering/comments/1d5bdkl/data_vault_vs_kimball/,False,False,False,False
+1d5n7an,DE Architecture - Dagster + DBT + Columnar database (Redshift),15,13,LumosNox99,2024-06-01 13:39:14,https://www.reddit.com/r/dataengineering/comments/1d5n7an/de_architecture_dagster_dbt_columnar_database/,False,False,False,False
+1d5sdbm,Let's Discuss: A day as a Data Engineer. ,12,7,HorrorTutor2854,2024-06-01 17:40:11,https://www.reddit.com/r/dataengineering/comments/1d5sdbm/lets_discuss_a_day_as_a_data_engineer/,False,False,False,False
+1d5fobb,Is Cloud based Data Engineering with GCP good?,13,21,divyaanshDev,2024-06-01 05:19:51,https://www.reddit.com/r/dataengineering/comments/1d5fobb/is_cloud_based_data_engineering_with_gcp_good/,False,False,False,False
+1d5qa2m,Should the data engineers have access to development teams' code repositories?,13,11,NoteSticker,2024-06-01 16:03:19,https://www.reddit.com/r/dataengineering/comments/1d5qa2m/should_the_data_engineers_have_access_to/,False,False,False,False
+1d5jnu1,Pyspark Practice,10,3,LightYagami-98,2024-06-01 10:02:22,https://www.reddit.com/r/dataengineering/comments/1d5jnu1/pyspark_practice/,False,False,False,False
+1d578bq,Question: First DE project using AWS,9,7,supersaiyanngod,2024-05-31 21:51:39,https://www.reddit.com/r/dataengineering/comments/1d578bq/question_first_de_project_using_aws/,False,False,False,False
+1d5j85k,Looking for leading voices in the data space,4,2,SquidsAndMartians,2024-06-01 09:30:07,https://www.reddit.com/r/dataengineering/comments/1d5j85k/looking_for_leading_voices_in_the_data_space/,False,False,False,False
+1d5q7db,Quarterly Salary Discussion - Jun 2024,4,0,AutoModerator,2024-06-01 16:00:21,https://www.reddit.com/r/dataengineering/comments/1d5q7db/quarterly_salary_discussion_jun_2024/,False,False,False,True
+1d5nhim,Azure Event-Driven Architecture,3,0,Jumpy-Minimum-4028,2024-06-01 13:53:32,https://www.reddit.com/r/dataengineering/comments/1d5nhim/azure_eventdriven_architecture/,False,False,False,False
+1d5mlvp,Databricks Dev & Prod environments for personal project?,2,1,TheDataPanda,2024-06-01 13:07:58,https://www.reddit.com/r/dataengineering/comments/1d5mlvp/databricks_dev_prod_environments_for_personal/,False,False,False,False
+1d5gqjt,Trino on AWS EKS with IAM/IRSA - A Walkthough,2,1,fico86,2024-06-01 06:30:05,https://www.reddit.com/r/dataengineering/comments/1d5gqjt/trino_on_aws_eks_with_iamirsa_a_walkthough/,False,False,False,False
+1d5dc0r,Changing Careers to Data Engineering - need some advice,4,1,siberiannoise,2024-06-01 03:02:27,https://www.reddit.com/r/dataengineering/comments/1d5dc0r/changing_careers_to_data_engineering_need_some/,False,False,False,False
+1d55hit,Suggestions for a data visualization/dashboard solution,2,1,karpomalice,2024-05-31 20:34:21,https://www.reddit.com/r/dataengineering/comments/1d55hit/suggestions_for_a_data_visualizationdashboard/,False,False,False,False
+1d5v1fu,What is Apache Iceberg?,2,0,AMDataLake,2024-06-01 19:41:59,https://i.redd.it/b9iya454k04d1.jpeg,False,False,False,False
+1d5s4pr,Python Use Cases?,1,4,DilatedPoreOfLara,2024-06-01 17:29:00,https://www.reddit.com/r/dataengineering/comments/1d5s4pr/python_use_cases/,False,False,False,False
+1d5q7jg,Monthly General Discussion - Jun 2024,2,0,AutoModerator,2024-06-01 16:00:32,https://www.reddit.com/r/dataengineering/comments/1d5q7jg/monthly_general_discussion_jun_2024/,False,False,False,True
+1d57v9d,Freelancer - finding projects,1,2,Ok_Illustrator72,2024-05-31 22:20:10,https://www.reddit.com/r/dataengineering/comments/1d57v9d/freelancer_finding_projects/,False,False,False,False
+1d5b861,Seeking Advice for AWS Data Engineer Exam Preparation,0,1,DataNinjaSoul,2024-06-01 01:05:34,https://www.reddit.com/r/dataengineering/comments/1d5b861/seeking_advice_for_aws_data_engineer_exam/,False,False,False,False
+1d591kp,Data validation tool,0,1,solo_stooper,2024-05-31 23:15:58,https://www.reddit.com/r/dataengineering/comments/1d591kp/data_validation_tool/,False,False,False,False
+1d5tz2o,Moved From LW to AWS and Queries are Slower,0,1,TheLasagnaPanda,2024-06-01 18:52:54,https://www.reddit.com/r/dataengineering/comments/1d5tz2o/moved_from_lw_to_aws_and_queries_are_slower/,False,False,False,False
